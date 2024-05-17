@@ -27,6 +27,7 @@ python em4100_generator.py
 Enter the number of EM4100 identification numbers you want to generate when prompted.
 Example:
 Enter the number of EM4100 identification numbers you want to generate: 1000
+
 The script will generate the specified number of IDs and save them to a text file named em4100_dictionary.txt in the same directory.
 
 Transfer the generated em4100_dictionary.txt file to your Fliper Zero device.On Fliper Zero device, open the RFID Fuzzer application and select the option to "Load UID's from file". Choose the em4100_dictionary.txt file you transferred.Run the RFID Fuzzer to use the generated EM4100 identification numbers for testing or demonstration purposes.
