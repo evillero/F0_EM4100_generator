@@ -32,5 +32,9 @@ The script will generate the specified number of IDs and save them to a text fil
 
 Transfer the generated em4100_dictionary.txt file to your Fliper Zero device.On Fliper Zero device, open the RFID Fuzzer application and select the option to "Load UID's from file". Choose the em4100_dictionary.txt file you transferred.Run the RFID Fuzzer to use the generated EM4100 identification numbers for testing or demonstration purposes.
 
+## Version history
+- 0.2 - Add colors, ASCII art, save in script directory, progress updates, improved input handling.
+- 0.1 - Initial release raw code
+
 ## Acknowledgements
 This script was created as a simple utility for generating test data for systems using EM4100 RFID tags.
