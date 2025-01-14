@@ -32,7 +32,7 @@ The script will generate the specified number of IDs and save them to a text fil
 Transfer the generated dictionary.txt file to your Fliper Zero device.On Fliper Zero device, open the RFID Fuzzer application and select the option to "Load UID's from file". Choose the dictionary.txt file you transferred. Run the RFID Fuzzer to use the generated EM4100 identification numbers for testing or demonstration purposes.
 
 ## Version history
-- 0.3 - 0.3 - Updated to support multiple protocols (HID Prox, PAC Stanley, H10301, etc.), improved ID generation
+- 0.3 - Updated to support multiple protocols (HID Prox, PAC Stanley, H10301, etc.), changed name
 - 0.2 - Add colors, ASCII art, save in script directory, progress updates, improved input handling.
 - 0.1 - Initial release raw code
 
