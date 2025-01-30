@@ -71,6 +71,7 @@ class Generate:
 
 
 if __name__ == '__main__':
+    print(ASCII_TITLE)
     fuzzer = Generate()
     print(f"{Colors.HEADER}{Colors.BOLD}Flipper Zero RFID Fuzzer Generator{Colors.ENDC}")
     print(f"{Colors.OKCYAN}---------------------------------------------{Colors.ENDC}")
