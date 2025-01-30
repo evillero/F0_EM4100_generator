@@ -1,5 +1,5 @@
 #www.github.com/evillero#
-#https://github.com/secretlay3r#
+#www.github.com/secretlay3r#
 
 
 import random
